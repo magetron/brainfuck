@@ -1,5 +1,1 @@
-### Brainfuck
-
-Brainfuck !!!!!!!
-
-So Amazing !!!!!!!
+# Brainfuck
